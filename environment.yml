@@ -43,7 +43,6 @@ dependencies:
 
   # Utilities
   - pycodestyle
-  - ruff
 
   # Install some things through pip
   - pip
