@@ -16,7 +16,6 @@ dependencies:
   - netcdf4
   - h5py
   - dask
-  - argparse
   - kneed
   - pathlib
   - typing
