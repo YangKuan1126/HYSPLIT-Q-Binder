@@ -21,7 +21,6 @@ dependencies:
   - pathlib
   - re
   - typing
-  - sys
 
   # Plotting
   - ipympl
