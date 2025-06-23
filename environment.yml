@@ -19,7 +19,6 @@ dependencies:
   - argparse
   - kneed
   - pathlib
-  - re
   - typing
 
   # Plotting
